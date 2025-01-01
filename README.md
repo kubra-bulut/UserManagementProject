@@ -69,7 +69,7 @@ npm run dev
 | DELETE  | /api/users/{id:[0-9]+}  | Delete a user  |
 
 🛠️ Technologies Used
-* Frontend: React, Material-UI
+* Frontend: React, Node JS
 - Backend: Go, gorilla
 - Database: SQLite
 - HTTP Client: Axios
