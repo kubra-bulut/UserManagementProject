@@ -20,9 +20,9 @@ form.
 
  Before you begin, ensure you have the following installed:
 
-- Node.js (v14 or higher) for the frontend.
+- React for the frontend.
 
-- Go (v1.16 or higher) for the backend.
+- Go for the backend.
 
 - SQLite for the database.
 
